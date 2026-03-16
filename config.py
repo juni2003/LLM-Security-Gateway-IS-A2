@@ -9,6 +9,7 @@ INJECTION_KEYWORDS = [
     "you are now"
 ]
 
+
 # Configurable Thresholds
 INJECTION_THRESHOLD = 0.8
 CONFIDENCE_THRESHOLD = 0.6
